@@ -2,7 +2,7 @@ You light a small fire in the middle of the marshmallow room.
 
 You stoke the fire by fanning the flames.
 
-The higher the flames grow, the more you fan them.
+The higher the flames grow, the more you fan them. 
 
 As the fire grows, a sweet aroma fills the room and the ceiling becomes ever so slightly brown just above the fire.
 
@@ -15,7 +15,7 @@ walls for you to squeeze through.
 
 But then you notice a rat entering that opening too.
 
-The rat smiles and says, "Come on, let's go!"
+The rat smiles and says, "Come on, let's go!". I think I am high.
 
 [Enter that opening](magic-world/alice.md)
 
